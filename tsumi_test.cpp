@@ -8,7 +8,7 @@
  *  #include 前に  main  を別名へ書き換え             *
  *  → 取り込み終了後に  #undef で元に戻す             */
 #define main YONMOKU_ORIGINAL_MAIN
-#include "yonmoku_test_baaiwake.cpp"     // tsumi / Board を取り込む
+#include "yonmoku_test_baaiwake_ps.cpp"     // tsumi / Board を取り込む
 #undef main
 /* ──────────────────────────────────────────────── */
 
