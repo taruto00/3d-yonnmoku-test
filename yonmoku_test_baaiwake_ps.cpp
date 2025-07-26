@@ -12,7 +12,6 @@
 #include<fstream>
 #include<sstream>
 #include <unordered_map>
-#pragma once
 #include <tuple>
 #include <functional>
 
